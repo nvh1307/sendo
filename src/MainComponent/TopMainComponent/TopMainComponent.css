@@ -1,0 +1,29 @@
+.top-main-container{
+    
+}
+.top-main-show-result{
+    display: flex;
+    align-items: center;
+    height: 36px;
+}
+
+
+.top-main-show-result p{
+    color:#3f4b53 ;
+}
+.top-main-search{
+    color:#0f1e29 !important;
+    padding-right: 12px;
+    line-height: 1.6rem;
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+.top-main-home span{
+    padding: 0 4px;
+    color: #6f787e;
+}
+.top-main-homepage-redirect{
+    text-decoration: none;
+    color: #0f62fe;
+    padding-right: 4px;
+}

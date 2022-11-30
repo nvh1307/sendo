@@ -1,0 +1,2584 @@
+[
+    
+    {
+        "id": 16761219,
+        "name": "Đồng hồ treo tường tròn",
+        "category_path": "dong-ho-treo-tuong-tron-16761219.html",
+        "image": "https://media3.scdn.vn/img4/2021/01_19/8iFmOvgqaNmIJB9Lx9yC_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 99000,
+        "default_price_max": 99000,
+        "sale_price_min": 99000,
+        "sale_price_max": 99000,
+        "sold": 155,
+        "seller_admin_id": 537360,
+        "sku_user": "Đồng hồ treo tường",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 537360,
+            "name": "NAM LAM",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 41,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19400787,
+        "name": "Đồng hồ treo tường 35cm",
+        "category_path": "dong-ho-treo-tuong-35cm-19400787.html",
+        "image": "https://media3.scdn.vn/img4/2021/04_16/JncvvTVCyNtx5LTo3TK6_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 152000,
+        "default_price_max": 152000,
+        "sale_price_min": 152000,
+        "sale_price_max": 152000,
+        "sold": 30,
+        "seller_admin_id": 558485,
+        "sku_user": "Đồng hồ 35cm",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 12,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 31782607,
+        "name": "Đồng hồ dán tường 3d (loại lớn)(binh tan)",
+        "category_path": "dong-ho-dan-tuong-3d-loai-lonbinh-tan-31782607.html",
+        "image": "https://media3.scdn.vn/img4/2020/07_15/NoNfDIqjMdEBonEgT20a_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 199000,
+        "default_price_max": 199000,
+        "sale_price_min": 199000,
+        "sale_price_max": 199000,
+        "sold": 36,
+        "seller_admin_id": 657444,
+        "sku_user": "Đồng hồ dán tường 3d (loại lớn)",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 657444,
+            "name": "Ngoc Phat Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 8,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 30856614,
+        "name": "Đồng hồ treo tường 35cm GUTEN",
+        "category_path": "dong-ho-treo-tuong-35cm-guten-30856614.html",
+        "image": "https://media3.scdn.vn/img4/2022/04_10/dKvBioKwOitZUBuZ1EXV_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 128000,
+        "default_price_max": 128000,
+        "sale_price_min": 128000,
+        "sale_price_max": 128000,
+        "sold": 15,
+        "seller_admin_id": 656250,
+        "sku_user": "Đồng hồ treo tường 35CM",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 656250,
+            "name": "Gia Nguyên Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 37168657,
+        "name": "Đồng hồ treo tường kim trôi cao cấp 35cm MASTER",
+        "category_path": "dong-ho-treo-tuong-kim-troi-cao-cap-35cm-master-37168657.html",
+        "image": "https://media3.scdn.vn/img4/2022/03_09/9TEoYoFxaO7epJgak6v7_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 166000,
+        "default_price_max": 166000,
+        "sale_price_min": 152000,
+        "sale_price_max": 152000,
+        "sale_percent": 9,
+        "sold": 14,
+        "seller_admin_id": 558485,
+        "sku_user": "Đồng hồ treo tường kim trôi 35CM",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 29936087,
+        "name": "ĐỒNG HỒ DÁN TƯỜNG 3D LOẠI 1",
+        "category_path": "dong-ho-dan-tuong-3d-loa-i-1-29936087.html",
+        "image": "https://media3.scdn.vn/img4/2020/05_23/p4uLXEu8cn82fYDe5nOc_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 199000,
+        "default_price_max": 199000,
+        "sale_price_min": 199000,
+        "sale_price_max": 199000,
+        "sold": 15,
+        "seller_admin_id": 517880,
+        "sku_user": "ĐỒNG HỒ 3D",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 517880,
+            "name": "Nam Phuong",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 3,
+            "star": 4.7
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19673420,
+        "name": "Đồng hồ nam thời trang dây thép Tisselly chính hãng có 2 lịch full box",
+        "category_path": "dong-ho-nam-thoi-trang-day-thep-tisselly-chinh-hang-co-2-lich-full-box-19673420.html",
+        "image": "https://media3.scdn.vn/img3/2019/7_5/wE6eNp_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 489000,
+        "default_price_max": 489000,
+        "sale_price_min": 279000,
+        "sale_price_max": 279000,
+        "sale_percent": 43,
+        "sold": 187,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam Ts101",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 44,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 23775753,
+        "name": "Đồng hồ treo tường 3d loại to",
+        "category_path": "dong-ho-treo-tuong-3d-loai-to-23775753.html",
+        "image": "https://media3.scdn.vn/img3/2019/11_19/UYxk31_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 199000,
+        "default_price_max": 199000,
+        "sale_price_min": 199000,
+        "sale_price_max": 199000,
+        "sold": 42,
+        "seller_admin_id": 613884,
+        "sku_user": "Đồng hồ treo tường 3d loại to",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 613884,
+            "name": "Y HAN",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19041811,
+        "name": "Đồng hồ nam dây thép lưới Minimalist Crnaira chính hãng thời trang cao cấp full box",
+        "category_path": "dong-ho-nam-day-thep-luoi-minimalist-crnaira-chinh-hang-thoi-trang-cao-cap-full-box-19041811.html",
+        "image": "https://media3.scdn.vn/img3/2019/6_7/epQmlw_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 342000,
+        "default_price_max": 342000,
+        "sale_price_min": 199000,
+        "sale_price_max": 199000,
+        "sale_percent": 42,
+        "sold": 254,
+        "has_video": true,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam CR902",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 45,
+            "star": 4.7
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17795090,
+        "name": "ĐỒNG HỒ TREO TƯỜNG KIM TRÔI 30CM ENDURING",
+        "category_path": "dong-ho-treo-tuong-kim-troi-30cm-enduring-17795090.html",
+        "image": "https://media3.scdn.vn/img4/2022/10_19/VyRwfpXd2KHuAgnmnyZv_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 136000,
+        "default_price_max": 136000,
+        "sale_price_min": 136000,
+        "sale_price_max": 136000,
+        "sold": 27,
+        "seller_admin_id": 558485,
+        "sku_user": "ĐỒNG HỒ TREO TƯỜNG ENDURING",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 4,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21386495,
+        "name": "Đồng Hồ Nam Sanda Kim Điện Tử Thể Thao Phong Cách Cá Tính Fullbox",
+        "category_path": "dong-ho-nam-sanda-kim-dien-tu-the-thao-phong-cach-ca-tinh-fullbox-21386495.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_3/zuLiaa_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 615000,
+        "default_price_max": 615000,
+        "sale_price_min": 339000,
+        "sale_price_max": 339000,
+        "sale_percent": 45,
+        "sold": 44,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam đồng hồ nam S601",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 31040797,
+        "name": "Đồng Hồ Treo Tường Kim Trôi Mẫu Đẹp",
+        "category_path": "dong-ho-treo-tuong-kim-troi-mau-dep-31040797.html",
+        "image": "https://media3.scdn.vn/img4/2021/03_05/rShQ8oS8mmX5dzv5iktd_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 350000,
+        "default_price_max": 350000,
+        "sale_price_min": 220000,
+        "sale_price_max": 220000,
+        "sale_percent": 38,
+        "sold": 46,
+        "has_video": true,
+        "seller_admin_id": 721329,
+        "sku_user": "Đồng hồ Kim Trôi Sang Trọng",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 721329,
+            "name": "Đông hồ treo tường Huongshop",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "HN",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 12,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21065144,
+        "name": "Đồng Hồ Nam Thể Thao Dây Cao Su Pin Trâu Bền Bỉ",
+        "category_path": "dong-ho-nam-the-thao-day-cao-su-pin-trau-ben-bi-21065144.html",
+        "image": "https://media3.scdn.vn/img4/2022/09_29/6xwybRAL1qvDBPHjxwi5_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 500000,
+        "default_price_max": 500000,
+        "sale_price_min": 209000,
+        "sale_price_max": 209000,
+        "sale_percent": 59,
+        "sold": 32,
+        "seller_admin_id": 640488,
+        "sku_user": "ĐỒNG HỒ NAM 1509",
+        "product_type": 23,
+        "active_event_frame": "sale_event",
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 640488,
+            "name": "LỘC PHÁT789",
+            "is_certified": true,
+            "status": 2,
+            "level": 3,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 12,
+            "star": 4.6
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "sale_event",
+                "icon": "https://media3.scdn.vn/img4/2022/08_15/SacnYLrs5fJq5c6Njzf8.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21939305,
+        "name": "Đồng hồ treo tường tròn 30cm",
+        "category_path": "dong-ho-treo-tuong-tron-30cm-21939305.html",
+        "image": "https://media3.scdn.vn/img4/2021/02_16/6nOJtbcQiTbwltb5XzIJ_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 146000,
+        "default_price_max": 146000,
+        "sale_price_min": 146000,
+        "sale_price_max": 146000,
+        "sold": 54,
+        "seller_admin_id": 656250,
+        "sku_user": "Đồng hồ treo tường tròn 30cm",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 656250,
+            "name": "Gia Nguyên Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 12,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 27519339,
+        "name": "Đồng hồ dán tường 3D nhỏ 45cm",
+        "category_path": "dong-ho-da-n-tuong-3d-nho-45cm-27519339.html",
+        "image": "https://media3.scdn.vn/img4/2021/03_17/BCoR9SyGngzsZwpjoEnN_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 79000,
+        "default_price_max": 79000,
+        "sale_price_min": 79000,
+        "sale_price_max": 79000,
+        "sold": 33,
+        "seller_admin_id": 558485,
+        "sku_user": "Đồng hồ dán tường 45cm",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 7,
+            "star": 4
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 31300287,
+        "name": "Đồng Hồ Treo Tường Kim Trôi Sang Trọng",
+        "category_path": "dong-ho-treo-tuong-kim-troi-sang-trong-31300287.html",
+        "image": "https://media3.scdn.vn/img4/2021/03_04/3o7pRLTsMzRXuMIGyodm_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 350000,
+        "default_price_max": 350000,
+        "sale_price_min": 215000,
+        "sale_price_max": 215000,
+        "sale_percent": 39,
+        "sold": 29,
+        "has_video": true,
+        "seller_admin_id": 721329,
+        "sku_user": "Đồng hồ kim trôi Sang Trọng",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 721329,
+            "name": "Đông hồ treo tường Huongshop",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "HN",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 22982079,
+        "name": "Đồng hồ nam Casio AE-1200WHD-1AVDF - Pin 10 năm",
+        "category_path": "dong-ho-nam-casio-ae-1200whd-1avdf-pin-10-nam-22982079.html",
+        "image": "https://media3.scdn.vn/img3/2019/10_24/pSqgqO_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 1246000,
+        "default_price_max": 1246000,
+        "sale_price_min": 1121500,
+        "sale_price_max": 1121500,
+        "sale_percent": 10,
+        "sold": 15,
+        "seller_admin_id": 600516,
+        "sku_user": "Đồng hồ nam",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 600516,
+            "name": "Casio Longtime",
+            "status": 2,
+            "type": 2,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {
+                "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+            }
+        },
+        "rated": {
+            "total": 2,
+            "star": 5
+        },
+        "options": {}
+    },
+    {
+        "id": 16739458,
+        "name": "ĐỒNG HỒ TREO TƯỜNG",
+        "category_path": "dong-ho-treo-tuong-16739458.html",
+        "image": "https://media3.scdn.vn/img4/2021/01_30/ymp1f3PYbLVGK5h1BNuG_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 109000,
+        "default_price_max": 109000,
+        "sale_price_min": 109000,
+        "sale_price_max": 109000,
+        "sold": 47,
+        "seller_admin_id": 532145,
+        "sku_user": "ĐỒNG HỒ TREO TƯỜNG 30cm",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 532145,
+            "name": "NAM HAI",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 18,
+            "star": 4.9
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19400882,
+        "name": "Đồng hồ treo tường GUTEN 34cm",
+        "category_path": "dong-ho-treo-tuong-guten-34cm-19400882.html",
+        "image": "https://media3.scdn.vn/img4/2021/04_26/G36CMsmyl1zCQsvJS3No_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 136000,
+        "default_price_max": 136000,
+        "sale_price_min": 136000,
+        "sale_price_max": 136000,
+        "sold": 20,
+        "seller_admin_id": 558485,
+        "sku_user": "Đồng hồ GUTEN 34cm",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 31299295,
+        "name": "Đồng Hồ Treo Tường Kim Trôi Mẫu 3D",
+        "category_path": "dong-ho-treo-tuong-kim-troi-mau-3d-31299295.html",
+        "image": "https://media3.scdn.vn/img4/2021/03_04/Q2EOeHvDlbhoKeaK0L5R_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 350000,
+        "default_price_max": 350000,
+        "sale_price_min": 215000,
+        "sale_price_max": 215000,
+        "sale_percent": 39,
+        "sold": 37,
+        "has_video": true,
+        "seller_admin_id": 721329,
+        "sku_user": "Đồng Hồ Kim Trôi 3D",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 721329,
+            "name": "Đông hồ treo tường Huongshop",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "HN",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 11,
+            "star": 4.7
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17485644,
+        "name": "Đồng hồ treo tường vuông",
+        "category_path": "dong-ho-treo-tuong-vuong-17485644.html",
+        "image": "https://media3.scdn.vn/img4/2021/02_03/n3kG3ZT5ZvcjITxOpvam_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 138000,
+        "default_price_max": 138000,
+        "sale_price_min": 138000,
+        "sale_price_max": 138000,
+        "sold": 34,
+        "seller_admin_id": 537360,
+        "sku_user": "Đồng hồ treo tường 30cm",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 537360,
+            "name": "NAM LAM",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 4,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 30145875,
+        "name": "Đồng Hồ Treo Tường Tròn 25cm",
+        "category_path": "dong-ho-treo-tuong-tron-25cm-30145875.html",
+        "image": "https://media3.scdn.vn/img4/2021/01_19/IjpN4qpBpBgOPMieN74L_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 99000,
+        "default_price_max": 99000,
+        "sale_price_min": 99000,
+        "sale_price_max": 99000,
+        "sold": 21,
+        "seller_admin_id": 558485,
+        "sku_user": "Đồng Hồ",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19068393,
+        "name": "ĐỒNG HỒ TREO TƯỜNG KIM TRÔI 30CM ENDURING",
+        "category_path": "dong-ho-treo-tuong-kim-troi-30cm-enduring-19068393.html",
+        "image": "https://media3.scdn.vn/img4/2022/06_17/P1UyK1Uv7RC35vDfpb6E_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 126000,
+        "default_price_max": 126000,
+        "sale_price_min": 126000,
+        "sale_price_max": 126000,
+        "sold": 30,
+        "seller_admin_id": 558485,
+        "sku_user": "ĐỒNG HỒ ENDURING",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 4.2
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 11942456,
+        "name": "Đồng hồ nam dep",
+        "category_path": "dong-ho-nam-dep-11942456.html",
+        "image": "https://media3.scdn.vn/img2/2018/9_27/GI5omJ_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 437000,
+        "default_price_max": 437000,
+        "sale_price_min": 249000,
+        "sale_price_max": 249000,
+        "sale_percent": 44,
+        "sold": 184,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam 50",
+        "product_type": 23,
+        "like_counter": 15,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 37,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 18738150,
+        "name": "Đồng hồ nam",
+        "category_path": "dong-ho-nam-18738150.html",
+        "image": "https://media3.scdn.vn/img3/2019/5_23/gsJtW3_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 479000,
+        "default_price_max": 479000,
+        "sale_price_min": 269000,
+        "sale_price_max": 269000,
+        "sale_percent": 44,
+        "sold": 67,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam c010",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 10,
+            "star": 4.6
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 41753827,
+        "name": "Đồng hồ treo tường tròn ENDURING 30cm",
+        "category_path": "dong-ho-treo-tuong-tron-enduring-30cm-41753827.html",
+        "image": "https://media3.scdn.vn/img4/2021/03_26/MmdmR9xBHcL44ABQJTY1_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 116000,
+        "default_price_max": 116000,
+        "sale_price_min": 116000,
+        "sale_price_max": 116000,
+        "sold": 48,
+        "seller_admin_id": 558485,
+        "sku_user": "Đồng hồ tròn 30cm",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 11,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17583322,
+        "name": "Đồng hồ treo tường GUTEN 34cm",
+        "category_path": "dong-ho-treo-tuong-guten-34cm-17583322.html",
+        "image": "https://media3.scdn.vn/img4/2022/04_13/XBvD6T0prO9KhCRshbnP_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 139000,
+        "default_price_max": 139000,
+        "sale_price_min": 139000,
+        "sale_price_max": 139000,
+        "sold": 15,
+        "seller_admin_id": 558485,
+        "sku_user": "Đồng hồ treo tường kim trôi 34cm GUTEN",
+        "product_type": 23,
+        "like_counter": 1,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 5,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 29936264,
+        "name": "Đồng Hồ Treo Tường Dán Tường 3D cao cấp trang trí loại lớn treo phòng khách đẹp",
+        "category_path": "dong-ho-treo-tuong-dan-tuong-3d-cao-cap-trang-tri-loai-lon-treo-phong-khach-dep-29936264.html",
+        "image": "https://media3.scdn.vn/img4/2021/06_04/eUPbrWvAv997AHZUmAtt_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 199000,
+        "default_price_max": 199000,
+        "sale_price_min": 199000,
+        "sale_price_max": 199000,
+        "sold": 14,
+        "seller_admin_id": 537360,
+        "sku_user": "ĐỒNG HỒ DÁN TƯỜNG",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 537360,
+            "name": "NAM LAM",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 4,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 13041845,
+        "name": "Đồng Hồ Nam Dây Da Có Lịch Ngày Và Thứ Crnaira Thanh Lịch Thời Cao Cấp Trang Full Box",
+        "category_path": "dong-ho-nam-day-da-co-lich-ngay-va-thu-crnaira-thanh-lich-thoi-cao-cap-trang-full-box-13041845.html",
+        "image": "https://media3.scdn.vn/img2/2018/11_22/9r0qiD_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 433000,
+        "default_price_max": 433000,
+        "sale_price_min": 259000,
+        "sale_price_max": 259000,
+        "sale_percent": 41,
+        "sold": 169,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam đồng hồ nam 31",
+        "product_type": 23,
+        "like_counter": 6,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 26,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 11944571,
+        "name": "Đồng hồ nam dây thép lụa đính đá Crnaira thời thượng cao cấp có 2 lịch full box",
+        "category_path": "dong-ho-nam-day-thep-lua-dinh-da-crnaira-thoi-thuong-cao-cap-co-2-lich-full-box-11944571.html",
+        "image": "https://media3.scdn.vn/img2/2018/9_27/ouYZmY_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 454000,
+        "default_price_max": 454000,
+        "sale_price_min": 259000,
+        "sale_price_max": 259000,
+        "sale_percent": 43,
+        "sold": 293,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam CR02",
+        "product_type": 23,
+        "like_counter": 25,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 47,
+            "star": 4.6
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19110494,
+        "name": "Đồng Hồ Nam FNGEEN Mặt Rồng Nổi 3D Sang Trọng",
+        "category_path": "dong-ho-nam-fngeen-mat-rong-noi-3d-sang-trong-19110494.html",
+        "image": "https://media3.scdn.vn/img4/2020/10_19/g5TFQ2wuy6vFIIU2SPQg_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 499000,
+        "default_price_max": 499000,
+        "sale_price_min": 499000,
+        "sale_price_max": 499000,
+        "sold": 219,
+        "seller_admin_id": 486951,
+        "sku_user": "đồng hồ FNGEEN",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 486951,
+            "name": "Vegeta",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 59,
+            "star": 4.4
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 24710843,
+        "name": "Đồng hồ treo tường hình vuông",
+        "category_path": "dong-ho-treo-tuong-hinh-vuong-24710843.html",
+        "image": "https://media3.scdn.vn/img4/2022/01_01/vYKC5NUXjV0GHDdE49P8_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 126000,
+        "default_price_max": 126000,
+        "sale_price_min": 126000,
+        "sale_price_max": 126000,
+        "sold": 11,
+        "seller_admin_id": 558485,
+        "sku_user": "Đồng hồ treo tường hình vuông",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 5,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 48229936,
+        "name": "Đồng hồ cơ nam cao cấp chính hãng",
+        "category_path": "dong-ho-co-nam-cao-cap-chinh-hang-48229936.html",
+        "image": "https://media3.scdn.vn/img4/2021/07_28/o93OJCp4MxfdYXgj661h_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 900000,
+        "default_price_max": 900000,
+        "sale_price_min": 500000,
+        "sale_price_max": 500000,
+        "sale_percent": 45,
+        "sold": 5,
+        "discount_app": 5,
+        "seller_admin_id": 327117,
+        "sku_user": "Đồng hồ cơ 0114",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 327117,
+            "name": "luutuyet",
+            "status": 2,
+            "ware_house_region_name": "Thanh Hóa",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 1,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21815022,
+        "name": "ĐỒNG HỒ NAM CHÍNH HÃNG WWOOR",
+        "category_path": "dong-ho-nam-chinh-hang-wwoor-21815022.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_18/TGT0ky_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 509000,
+        "default_price_max": 509000,
+        "sale_price_min": 300000,
+        "sale_price_max": 300000,
+        "sale_percent": 42,
+        "sold": 38,
+        "seller_admin_id": 662936,
+        "sku_user": "ĐỒNG HỒ NAM 8829",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 662936,
+            "name": "NHẤT NHẤT SHOP 89",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 5,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 18589798,
+        "name": "Đồng hồ nữ đính đá dây da Sanda chính hãng thời trang cho bạn gái",
+        "category_path": "dong-ho-nu-dinh-da-day-da-sanda-chinh-hang-thoi-trang-cho-ban-gai-18589798.html",
+        "image": "https://media3.scdn.vn/img3/2019/5_16/sf4dsN_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 397000,
+        "default_price_max": 397000,
+        "sale_price_min": 239000,
+        "sale_price_max": 239000,
+        "sale_percent": 40,
+        "sold": 60,
+        "seller_admin_id": 525642,
+        "sku_user": "đồng hồ nữ Sm5",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 525642,
+            "name": "The Golden Stars 24",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 16,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 11941712,
+        "name": "Đồng hồ nam kim dây thép Crnaira thời trang cao cấp chính hãng có 2 lịch full box",
+        "category_path": "dong-ho-nam-kim-day-thep-crnaira-thoi-trang-cao-cap-chinh-hang-co-2-lich-full-box-11941712.html",
+        "image": "https://media3.scdn.vn/img2/2018/9_27/sM1Yr1_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 506000,
+        "default_price_max": 506000,
+        "sale_price_min": 279000,
+        "sale_price_max": 279000,
+        "sale_percent": 45,
+        "sold": 408,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam đồng đồng hồ nam",
+        "product_type": 23,
+        "like_counter": 35,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 53,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 23826010,
+        "name": "Đồng hồ nam",
+        "category_path": "dong-ho-nam-23826010.html",
+        "image": "https://media3.scdn.vn/img3/2019/11_21/FkXFbG_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 200000,
+        "default_price_max": 200000,
+        "sale_price_min": 99000,
+        "sale_price_max": 99000,
+        "sale_percent": 51,
+        "sold": 248,
+        "has_video": true,
+        "seller_admin_id": 486951,
+        "sku_user": "Đồng hồ nam FOURRON máy Quartz Nhật Bản",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 486951,
+            "name": "Vegeta",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 73,
+            "star": 4.7
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 26955864,
+        "name": "Đồng Hồ Cơ Nam Lộ Máy Dây Da Bò Cao Cấp Mặt Kính Chống Xước 38mm Chống Nước 3ATM",
+        "category_path": "dong-ho-co-nam-lo-may-day-da-bo-cao-cap-mat-kinh-chong-xuoc-38mm-chong-nuoc-3atm-26955864.html",
+        "image": "https://media3.scdn.vn/img3/2019/3_9/VL9Faf_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 419000,
+        "default_price_max": 419000,
+        "sale_price_min": 419000,
+        "sale_price_max": 419000,
+        "sold": 38,
+        "discount_app": 1,
+        "seller_admin_id": 750423,
+        "sku_user": "Đồng Hồ Cơ Nam",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 750423,
+            "name": "CAD92SHOP",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "HN",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 9,
+            "star": 4.9
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+            },
+            {
+                "position": "bottom",
+                "type": "combo_discount",
+                "text": "Mua gói siêu hời",
+                "text_color": "#997600",
+                "bg_color": "#fff8e0",
+                "icon": "https://media3.scdn.vn/img4/2020/05_28/1jUbw0R659xyfxmElfhC.png"
+            }
+        ]
+    },
+    {
+        "id": 27740514,
+        "name": "Đồng hồ nam NIBOSI chính hãng NI2362 03",
+        "category_path": "dong-ho-nam-nibosi-chinh-hang-ni2362-03-27740514.html",
+        "image": "https://media3.scdn.vn/img4/2020/10_28/yLPlBd8FkWhXA5Sb0LAw_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 559000,
+        "default_price_max": 559000,
+        "sale_price_min": 359000,
+        "sale_price_max": 359000,
+        "sale_percent": 36,
+        "sold": 32,
+        "has_video": true,
+        "seller_admin_id": 646759,
+        "sku_user": "Đồng hồ nam NI2362 03",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 646759,
+            "name": "Royal Time",
+            "status": 2,
+            "type": 2,
+            "ware_house_region_name": "HN",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+            }
+        },
+        "rated": {
+            "total": 15,
+            "star": 4.9
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 32173162,
+        "name": "Đồng Hồ Treo Tường Kim Trôi Sang Trọng SED",
+        "category_path": "dong-ho-treo-tuong-kim-troi-sang-trong-sed-32173162.html",
+        "image": "https://media3.scdn.vn/img4/2022/11_01/wJUYMdE4YbtNIa2v153z_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 370000,
+        "default_price_max": 370000,
+        "sale_price_min": 208550,
+        "sale_price_max": 208550,
+        "sale_percent": 44,
+        "sold": 14,
+        "has_video": true,
+        "seller_admin_id": 721329,
+        "sku_user": "Đồng Hồ Treo Tường SED",
+        "product_type": 23,
+        "active_event_frame": "sale_event",
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 721329,
+            "name": "Đông hồ treo tường Huongshop",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "HN",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 3,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "sale_event",
+                "icon": "https://media3.scdn.vn/img4/2022/08_15/SacnYLrs5fJq5c6Njzf8.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 41938173,
+        "name": "Đồng hồ treo tường Dạ Quang",
+        "category_path": "dong-ho-treo-tuong-da-quang-41938173.html",
+        "image": "https://media3.scdn.vn/img4/2021/03_31/ZEiuNQugPdcxLpXj5oWm_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 210000,
+        "default_price_max": 210000,
+        "sale_price_min": 165000,
+        "sale_price_max": 165000,
+        "sale_percent": 22,
+        "sold": 46,
+        "seller_admin_id": 887046,
+        "sku_user": "Đồng hồ treo tường Dạ Quang",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 887046,
+            "name": "KaKa Decor AZ",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 19,
+            "star": 4.7
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17599271,
+        "name": "Đồng hồ treo tường kim trôi GUTEN",
+        "category_path": "dong-ho-treo-tuong-kim-troi-guten-17599271.html",
+        "image": "https://media3.scdn.vn/img4/2022/04_13/KalNkXZ8kmkNmwOgKh80_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 139000,
+        "default_price_max": 139000,
+        "sale_price_min": 139000,
+        "sale_price_max": 139000,
+        "sold": 12,
+        "seller_admin_id": 558485,
+        "sku_user": "Đồng hồ treo tường kim trôi GUTEN",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 2,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 18881361,
+        "name": "ĐỒNG HỒ TREO TƯỜNG KIM TRÔI 26CM MASTER",
+        "category_path": "dong-ho-treo-tuong-kim-troi-26cm-master-18881361.html",
+        "image": "https://media3.scdn.vn/img4/2022/03_25/xaMdGDFqSaBIn9u5tu6u_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 99000,
+        "default_price_max": 99000,
+        "sale_price_min": 89000,
+        "sale_price_max": 99000,
+        "sale_percent": 11,
+        "sold": 7,
+        "seller_admin_id": 558485,
+        "sku_user": "ĐỒNG HỒ TREO TƯỜNG KIM TRÔI 26CM MASTER",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 4,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16432633,
+        "name": "Đồng hồ nam kính lồi 3D viền nhỏ thời trang - DOM fullbox - Mã số: DH1902",
+        "category_path": "dong-ho-nam-kinh-loi-3d-vien-nho-thoi-trang-dom-fullbox-ma-so-dh1902-16432633.html",
+        "image": "https://media3.scdn.vn/img3/2019/3_3/gARv3a_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 425000,
+        "default_price_max": 425000,
+        "sale_price_min": 350000,
+        "sale_price_max": 350000,
+        "sale_percent": 18,
+        "sold": 6,
+        "seller_admin_id": 2689,
+        "sku_user": "Đồng hồ DH1902",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 2689,
+            "name": "2no shop",
+            "is_certified": true,
+            "status": 2,
+            "level": 3,
+            "ware_house_region_name": "Đà Nẵng",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 2,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19680735,
+        "name": "Đồng Hồ Nam Dây Thép Đúc Đặc Crnaira Cao Cấp Chính Hãng Full Box",
+        "category_path": "dong-ho-nam-day-thep-duc-dac-crnaira-cao-cap-chinh-hang-full-box-19680735.html",
+        "image": "https://media3.scdn.vn/img3/2019/7_5/4lKfiw_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 515000,
+        "default_price_max": 515000,
+        "sale_price_min": 299000,
+        "sale_price_max": 299000,
+        "sale_percent": 42,
+        "sold": 111,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam d7",
+        "product_type": 23,
+        "like_counter": 5,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 20,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21668556,
+        "name": "Đồng hồ dán tường",
+        "category_path": "dong-ho-dan-tuong-21668556.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_12/e3mWnI_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 75000,
+        "default_price_max": 75000,
+        "sale_price_min": 75000,
+        "sale_price_max": 75000,
+        "sold": 80,
+        "seller_admin_id": 656250,
+        "sku_user": "Đồng hồ dán tường",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 656250,
+            "name": "Gia Nguyên Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 18,
+            "star": 4.2
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 13887571,
+        "name": "Đồng hồ nam Olmeca9 dây thép không gỉ 6 kim Fullbox",
+        "category_path": "dong-ho-nam-olmeca9-day-thep-khong-gi-6-kim-fullbox-13887571.html",
+        "image": "https://media3.scdn.vn/img3/2019/1_5/BDo6GR_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 791000,
+        "default_price_max": 791000,
+        "sale_price_min": 459000,
+        "sale_price_max": 459000,
+        "sale_percent": 42,
+        "sold": 51,
+        "has_video": true,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam olm901",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 69663108,
+        "name": "Đồng Hồ Đôi Nam Nữ Thời Trang Đa Giác Độc Đáo Siêu Đẹp Phong Cách Hàn Quốc ZO95",
+        "category_path": "dong-ho-doi-nam-nu-thoi-trang-da-giac-doc-dao-sieu-dep-phong-cach-han-quoc-zo95-69663108.html",
+        "image": "https://media3.scdn.vn/img4/2022/08_27/K0FsXJcFh8ID1kCiPdK1_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 55000,
+        "default_price_max": 110000,
+        "sale_price_min": 42000,
+        "sale_price_max": 84000,
+        "sale_percent": 24,
+        "sold": 5,
+        "has_video": true,
+        "discount_app": 1,
+        "seller_admin_id": 559193,
+        "sku_user": "Đồng Hồ Nam Nữ Thời Trang ZO95",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 559193,
+            "name": "CADERWEAR BOUTIQUE",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "HN",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 3,
+            "star": 4
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+            },
+            {
+                "position": "bottom",
+                "type": "installment",
+                "text": "Trả góp 0%",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2021/08_20/xuKcsLr4kFMaVTktqwCL.png"
+            }
+        ]
+    },
+    {
+        "id": 12551538,
+        "name": "Đồng hồ nữ dây thép lưới siêu mỏng đính đá Olmeca thời trang cao cấp và tinh tế full box",
+        "category_path": "dong-ho-nu-day-thep-luoi-sieu-mong-dinh-da-olmeca-thoi-trang-cao-cap-va-tinh-te-full-box-12551538.html",
+        "image": "https://media3.scdn.vn/img2/2018/10_30/09PtUf_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 609000,
+        "default_price_max": 609000,
+        "sale_price_min": 349000,
+        "sale_price_max": 349000,
+        "sale_percent": 43,
+        "sold": 83,
+        "has_video": true,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nữ đồng hồ nữ 22",
+        "product_type": 23,
+        "like_counter": 5,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 13,
+            "star": 4.7
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21407607,
+        "name": "Đồng hồ nam Winner3- cơ lộ máy dây thép không gỉ",
+        "category_path": "dong-ho-nam-winner3-co-lo-may-day-thep-khong-gi-21407607.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_4/Ww8q0h_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 995000,
+        "default_price_max": 995000,
+        "sale_price_min": 389000,
+        "sale_price_max": 389000,
+        "sale_percent": 61,
+        "sold": 139,
+        "seller_admin_id": 474147,
+        "sku_user": "Đồng hồ nam Winner-M03",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 474147,
+            "name": "Hoàng Diệp 05102017",
+            "is_certified": true,
+            "status": 2,
+            "level": 3,
+            "type": 1,
+            "ware_house_region_name": "HN",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 47,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21277479,
+        "name": "ĐỒNG HỒ TREO TƯỜNG 25CM ENDURING",
+        "category_path": "dong-ho-treo-tuong-25cm-enduring-21277479.html",
+        "image": "https://media3.scdn.vn/img4/2022/10_24/tf8UYy09kLSxdB3qbXDn_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 79000,
+        "default_price_max": 79000,
+        "sale_price_min": 79000,
+        "sale_price_max": 79000,
+        "sold": 17,
+        "seller_admin_id": 558485,
+        "sku_user": "Đồng Hồ 25cm",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 4,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 40798754,
+        "name": "Đồng Hồ Treo Tường(30cm)",
+        "category_path": "dong-ho-treo-tuong30cm-40798754.html",
+        "image": "https://media3.scdn.vn/img4/2021/01_30/3mWzUdRcZA434FZySr4S_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 119000,
+        "default_price_max": 119000,
+        "sale_price_min": 119000,
+        "sale_price_max": 119000,
+        "sold": 9,
+        "seller_admin_id": 657444,
+        "sku_user": "Đồng Hồ Treo Tường",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 657444,
+            "name": "Ngoc Phat Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 4,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16754105,
+        "name": "đồng hồ nữ",
+        "category_path": "dong-ho-nu-16754105.html",
+        "image": "https://media3.scdn.vn/img3/2019/3_17/Wajr9D_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 250000,
+        "default_price_max": 250000,
+        "sale_price_min": 119000,
+        "sale_price_max": 119000,
+        "sale_percent": 53,
+        "sold": 255,
+        "has_video": true,
+        "seller_admin_id": 319361,
+        "sku_user": "đồng hồ nữ đồng hồ nữ AZ09",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 319361,
+            "name": "Zamza",
+            "status": 2,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 81,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 31285010,
+        "name": "Đồng hồ nam",
+        "category_path": "dong-ho-nam-31285010.html",
+        "image": "https://media3.scdn.vn/img4/2020/07_04/KzB4aE4eb5ZhFAVkXfRi_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 249000,
+        "default_price_max": 249000,
+        "sale_price_min": 98000,
+        "sale_price_max": 98000,
+        "sale_percent": 61,
+        "sold": 193,
+        "seller_admin_id": 486951,
+        "sku_user": "Đồng hồ FNGEEN mặt rồng",
+        "product_type": 23,
+        "like_counter": 1,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 486951,
+            "name": "Vegeta",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 49,
+            "star": 4.6
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 28499804,
+        "name": "Đồng hồ treo tường kim trôi 30cm Exactly",
+        "category_path": "dong-ho-treo-tuong-kim-troi-30cm-exactly-28499804.html",
+        "image": "https://media3.scdn.vn/img4/2022/03_18/jROXVpaZBkgqrTkx337d_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 142000,
+        "default_price_max": 142000,
+        "sale_price_min": 142000,
+        "sale_price_max": 142000,
+        "sold": 6,
+        "seller_admin_id": 558485,
+        "sku_user": "Đồng hồ treo tường kim trôi 30cm Nâu",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 20999695,
+        "name": "ĐỒNG HỒ NAM THỂ THAO",
+        "category_path": "dong-ho-nam-the-thao-20999695.html",
+        "image": "https://media3.scdn.vn/img4/2020/11_13/bzu4fLaZ61XCElkyZVaP_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 199000,
+        "default_price_max": 199000,
+        "sale_price_min": 199000,
+        "sale_price_max": 199000,
+        "sold": 51,
+        "seller_admin_id": 640604,
+        "sku_user": "ĐỒNG HỒ NAM 1436",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 640604,
+            "name": "THỜI TRANG MỚI 89",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 13,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 33010226,
+        "name": "Đồng hồ Nam ROMATIC 1986 Máy GERMANY - Khóa Bướm + Dây Thép Đúc Đặc Cao Cấp",
+        "category_path": "dong-ho-nam-romatic-1986-may-germany-khoa-buom-day-thep-duc-dac-cao-cap-33010226.html",
+        "image": "https://media3.scdn.vn/img4/2020/08_31/TanTU7Q49AU0NcmPwwaS_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 250000,
+        "default_price_max": 250000,
+        "sale_price_min": 250000,
+        "sale_price_max": 250000,
+        "sold": 109,
+        "seller_admin_id": 596515,
+        "sku_user": "romatic_1986_xam",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 596515,
+            "name": "donghonhat",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 31,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17892059,
+        "name": "ĐỒNG HỒ TREO TƯỜNG KIM TRÔI 26CM MASTER",
+        "category_path": "dong-ho-treo-tuong-kim-troi-26cm-master-17892059.html",
+        "image": "https://media3.scdn.vn/img4/2022/04_14/vC7uh6No9zVUtGvok6pO_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 116000,
+        "default_price_max": 116000,
+        "sale_price_min": 99000,
+        "sale_price_max": 99000,
+        "sale_percent": 15,
+        "sold": 63,
+        "seller_admin_id": 558485,
+        "sku_user": "ĐỒNG HỒ MASTER",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 558485,
+            "name": "Phát Tín Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 16,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19670838,
+        "name": "Đồng Hồ Nữ Sanda S",
+        "category_path": "dong-ho-nu-sanda-s-19670838.html",
+        "image": "https://media3.scdn.vn/img3/2019/7_5/54Wz46_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 415000,
+        "default_price_max": 415000,
+        "sale_price_min": 236000,
+        "sale_price_max": 236000,
+        "sale_percent": 44,
+        "sold": 21,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nữ S702",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 3,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21870913,
+        "name": "Đồng hồ dán tường",
+        "category_path": "dong-ho-dan-tuong-21870913.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_20/FrRd4f_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 75000,
+        "default_price_max": 75000,
+        "sale_price_min": 75000,
+        "sale_price_max": 75000,
+        "sold": 83,
+        "seller_admin_id": 657444,
+        "sku_user": "Đồng hồ dán tường",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 657444,
+            "name": "Ngoc Phat Store",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 12,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    }
+]

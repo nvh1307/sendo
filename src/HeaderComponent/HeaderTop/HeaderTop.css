@@ -1,0 +1,82 @@
+.header-top{
+    display: flex;
+    background-color: #d52220;
+    color: white;
+    
+    font-size: 1.2rem;
+    font-weight: 600;
+    height: 30px;
+    align-items: center;
+}
+.header-top-action{
+    
+    cursor: pointer;
+    margin-right: 20px;
+    font-weight: 700;
+}
+.header-top-customcare{
+    position: absolute;
+    background-color: #fafafa;
+    color: #3f4b53;
+    padding: 4px 16px;
+    width: 10%;
+    border-radius: 5px;
+    margin-top: 8px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.04);
+    font-size: 1.4rem;
+    z-index: 100;
+    
+}
+.header-top-action:nth-child(2):visited{
+position: relative;
+
+}
+
+.header-top-form-check{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    padding: 12px 8px;
+    background-color: #fafafa;
+    margin-top: 8px;
+    width: 12%;
+    height: 120px;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+    z-index: 100;
+}
+
+.header-top-form-check input{
+    height: 32px;
+    width: 100%;
+    border: none;
+    outline: none;
+    
+}
+.header-top-submit-btn{
+    background-color:#ee2624;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    height: 24%;
+}
+
+.header-top-download-app{
+    position: absolute;
+   
+    margin-top: 8px;
+    background: white;
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    padding-top: 4px;
+    
+    
+}
+.header-top-download-app p{
+    color: #3f4b53;
+}

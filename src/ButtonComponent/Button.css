@@ -1,0 +1,22 @@
+.btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.btn-component{
+    width: 40%;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    font-weight: 700;
+    padding: 8px 0;
+}
+.btn-component:hover{
+    background-color: #fafafa;
+    
+}

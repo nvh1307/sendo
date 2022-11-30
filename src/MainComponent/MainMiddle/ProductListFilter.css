@@ -1,0 +1,14 @@
+.product-list-filter{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.product-list-filter span{
+    margin-right: 8px;
+}
+.product-list-filter-select{
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 12px 8px;
+    width: 20%;
+    outline: none;
+}

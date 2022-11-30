@@ -1,0 +1,128 @@
+.product-list-container{
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 3px 2px 2px rgba(0, 0, 0, 0.06);
+    margin: 8px 4px;
+    
+    cursor: pointer;
+    overflow-y: auto;
+}
+.product-item-img{
+    width: 100%;
+    object-fit: cover;
+
+}
+.product-item-img  img{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+    height: 220px;
+    margin-bottom: 12px;
+}
+.product-item-infor{
+    padding: 0 8px;
+}
+.product-item-name{
+    height: 40px;
+    width: 100%;
+    margin-bottom: 4px;
+}
+.product-item-name-infor{
+    height: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.product-item-name-text{
+    
+    height: 100%;
+    width: 100%;
+    
+   
+}
+
+.product-item-name img{
+    height: 12px;
+    width: 20%;
+    margin-right: 4px;
+}
+.product-item-price-current{
+    height: 24px;
+    display: block;
+    width: 100%;
+    font-size: 1.6rem;
+}
+.product-item-price-current h4{
+    height: 50%;
+    width: 100%;
+    margin: 0;
+    margin-top: 4px;
+    
+}
+.product-item-price-before{
+    text-decoration: line-through;
+    color: #b7bbbf;
+    font-size: 1.2rem;
+}
+.product-item-price-sale{
+    color: #ee2624;
+    margin-left: 0.4rem;
+    font-size: 1.2rem;
+}
+.product-item-text{
+    padding: 8px 4px;
+    color: rgb(19, 48, 150);
+    background: rgb(241, 243, 249);
+    border-radius: 12px;
+    width: 70%;
+    height: 1.2rem;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+    
+}
+.product-item-sold{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    /* padding: 4px 0; */
+}
+
+.product-item-star-icon{
+    color: #ffc600;
+    
+    top: 2px;
+    margin: 0 2px;
+}
+.product-item-star{
+    display: flex;
+    width: 50%;
+    max-width: 45%;
+    height: 32px;
+    
+    
+}
+.product-item-rated-star{
+    color: #3f4b53;
+    font-weight: 700;
+    margin: 0 2px;
+    
+    
+}
+.product-item-rated-total{
+    color:#6f787e ;
+    margin: 0 2px;
+}
+.product-item-sold{
+    height: 20px;
+}
+.product-item-shopname{
+    height: 28px;
+    
+}
+.hidden{
+    display: block;
+    background: white;
+}

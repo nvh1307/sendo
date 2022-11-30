@@ -1,0 +1,33 @@
+.footer-middle-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 200px;
+    
+}
+.footer-middle-infor{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+
+}
+.footer-middle-infor span{
+    margin-bottom: 0.8rem;
+    font-weight: 500;
+    font-size: 1.4rem;
+    color:#3f4b53 ;
+}
+.footer-middle-infor a{
+    text-decoration: none;
+    margin-bottom: 0.8rem;
+    color: #3f4b53;
+    font-size: 1.2rem;
+}
+.footer-middle-infor-link{
+
+}
+.footer-middle-infor-link img{
+    width: 120px;
+    height: 40px;
+    margin-right: 10px;
+}

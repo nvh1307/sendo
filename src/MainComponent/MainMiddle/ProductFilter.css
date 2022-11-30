@@ -1,0 +1,32 @@
+.product-filter-list{
+    background: #fafafa;
+    padding: 4px 12px;
+    border-radius: 8px;
+    border: none;
+    
+   
+}
+
+.product-filter-item h4{
+    position: relative;
+}
+.product-filter-icon-up{
+    position: absolute;
+    right: 0;
+    font-size: 0.8rem;
+    cursor: pointer;
+    padding: 8px 12px;
+}
+.product-filter-icon-up:hover{
+    
+    background-color: #f2f3f4;
+}
+.product-filter-item{
+    list-style: none;
+    border-bottom:  1px solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 24px;
+}
+.product-filter-icon-plus{
+    margin-right: 4px;
+    font-size: 1rem;
+}

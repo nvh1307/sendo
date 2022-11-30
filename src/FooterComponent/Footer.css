@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    margin-top: 20px;
+
+}
+.back-to-top{
+
+    bottom: 68px;
+    right: 38px;
+    bottom: 80px !important;
+    height: 35px !important;
+    
+}
+.back-to-top-icon{
+    font-size: 2.2rem;
+    padding-top: 4px;
+}
